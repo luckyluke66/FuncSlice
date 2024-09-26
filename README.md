@@ -1,4 +1,4 @@
-# sliceLib
+# FuncSlice
 
-Slice lib is small go package that implements functions inspired by haskell Data.List
+FuncSlices is small go package that implements functions on slices inspired by haskell Data.List
 
