@@ -1,9 +1,5 @@
 package setOp
 
-import (
-    "github.com/luckyluke66/SliceLib/predicates"
-)
-
 // Nub removes duplicate elements from the slice.
 // It returns a new slice containing only the unique elements from the input slice.
 //
